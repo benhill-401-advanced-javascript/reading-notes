@@ -6,6 +6,7 @@
 ## Table of Contents
 
 | Reading Notes |
+| --- |
 1. **Assignment**
 2. 
 3. 
