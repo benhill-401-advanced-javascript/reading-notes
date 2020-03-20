@@ -20,3 +20,5 @@ To describe the structure of a web page, we use HTML elements.
     - **seamless** doesn't need a value but you will often see authors give it a value of seamless. Older browsers don't support seamless.
 - **meta** is an empty element that gives browsers data about the page. (see pp. 191-192)
 - See pages 193-194 for **escape characters**. Basically describes how to make a less-than symbol  appear on your web page use these in your editor - "&lt:" 
+
+[Back to Table of Contents](README.md) 
