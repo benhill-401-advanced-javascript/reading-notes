@@ -21,4 +21,24 @@ To describe the structure of a web page, we use HTML elements.
 - **meta** is an empty element that gives browsers data about the page. (see pp. 191-192)
 - See pages 193-194 for **escape characters**. Basically describes how to make a less-than symbol  appear on your web page use these in your editor - "&lt:" 
 
+## Ch. 17 "HTML5 Layout" (pp. 428-451)
+
+- HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. 
+- Many of the ```**<div>**``` elements have been replaced. For example, the header sits inside a new ```<header>``` element. 
+Navigation sits inside a ```<nav>``` element, and the articles are in the individual ```<article>```elements. 
+- **Header** and **footer** elements can be used at the top and bottom of the entire page or within an article or section. These are HTML5 replacements for divs.
+- Page length header can be used to contain the site name and the main nav. The footer element contains the copyright.
+- Article and section elements use a header for titles and dates, and footers for can contain links to share about the content of the section.
+- The **nav** element is used to contain the major navigational blocks on the site to move around the main page or to different pages within the entire site. It can be used for purposes like links at the bottom of a page such as: (privacy policy, terms and conditions, careers, etc..)
+- **Article** elements are basically individual boxes within the content of the body that can contain content seperate or additional side content.
+- **Aside** element has two funcstions. If it's inside an article element it might have a pullquote or glossary, if it's used outside of an article, it can be used for content relative to the entire page like links to other parts of the page. Typically on the side of the page. 
+- **Section** elements group related content together such as a few article elements with the same theme. If a page has a long article, section can be used to split it into seperate sections. 
+- **Heading Group** elements are used to group together a set of one or more h1 through h6 elements so they are treated as one single heading. ```<hgroup>```
+
+## JS Ch. 1 "The ABC of Programming" (pp.11-52)
+
+- The ```<script>``` tag uses Javascript inside an HTML document.
+- It is best to keep JS code in its own JS file in a sort of .js extension. Like an external style sheet in CSS, it is linked into the HTML document inside the ```<script>``` tag in the ```<head>```.
+- Javascript is the language that makes a webpage more interactive
+
 [Table of Contents](README.md) 
