@@ -24,7 +24,7 @@ To describe the structure of a web page, we use HTML elements.
 ## Ch. 17 "HTML5 Layout" (pp. 428-451)
 
 - HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. 
-- Many of the ```**<div>**``` elements have been replaced. For example, the header sits inside a new ```<header>``` element. 
+- Many of the ```<div>``` elements have been replaced. For example, the header sits inside a new ```<header>``` element. 
 Navigation sits inside a ```<nav>``` element, and the articles are in the individual ```<article>```elements. 
 - **Header** and **footer** elements can be used at the top and bottom of the entire page or within an article or section. These are HTML5 replacements for divs.
 - Page length header can be used to contain the site name and the main nav. The footer element contains the copyright.
