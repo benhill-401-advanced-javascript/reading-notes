@@ -7,7 +7,7 @@
 
 | Reading Notes |
 | --- |
-1. **Assignment**
+1. **[Reading Assignment 1](class-01.md)**
 2. 
 3. 
 4. 
