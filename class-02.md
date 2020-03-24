@@ -14,4 +14,31 @@ If HTML defines what the content of the page is and how it's structured, basical
   2. **Internal style sheets** go inside the ```<head>``` element inside ```<style>``` tag. This is where the selector and declaration come into play and you can style every element within that single page.
   3. **External style sheets** are where most styling happens. You create a style.css folder and create a link inside the ```<head>``` element to the style sheet. Inside the style sheet you can style every element in every page of your web site at the same time.
 
+  ## JS Book Ch. 2: "Basic Javascript Instructions" (pp. 53-44)
+  - A **script** is a series of instrutions that a computer can follow one-by-one. Each indiviudal instruction or step is known as a **statement**. 
+  - **Statements** end with a semicolon. 
+  - A script will have to temporarily store the bits of information it needs to do its job. It can store tis data in **variables**. 
+  - A **variable** is synonymous with giving the computer an instruction to remember. Before you can use a variable, you need to announce that you want to use it. 
+  - You **declare** a variable by giving it a key word (var) and a variable name which identifies or quantifies what you want the variable to remember. If a variable name is more than one word, it is usually written in camelCase (the first letter of the second word is capitalized). Whatever name you declare the variable to have, it should be something that describes the kind of data the variable is storing.
+  - Now the variable has a name, you tell it what you want it to store for you, which is called **assigning a value** (the = sign is called "assignment operator"). 
+  - - Side note, giving the variable a name is all you need to do to make the variable but unless you assign a value it the variable is "undefined."
+- **Data types** for variables are:
+    - **Numeric** - handles numbers
+    - **String** - consists of letters and other characters. This data type is enclosed within a pair of quotation marks. Strings can be used when working with any kind of text. They are frequently used to add new content into a page and they can contain HTML markup.
+    - **Boolean** - Has true or false values. Think of it like a light switch - it's either on or off. Booleans are helpful when determining which part of a script should run. 
+- **Refer to page 69 for rules on naming variables**.
+### **Arrays** 
+- Arrays are a special type of variable. It doesn't just store one value; it stores a list of values. They'r e especially helpful when you don't know how many items a list will contain because, when you create the array, you don't need to specify how many values it will hold. 
+#### Expressions
+- An expression evaluates into (results in) a single value. Broadly speaking, there are two different types of expressions:
+  1. Expressions that just assign a value to a variable or,
+  2. Expressions that use two or more values to return a single value. 
+- Expressions rely on **operators** to calculate a value. 
+
+## JS Book Ch. 4: "Decisions and Loops" **only up to the section on switch statements** (pp.145-162)
+
+### Decisions
+There are often several places in a script where decisions are made that deterine which lines of code should be run next. 
+
+
 [Table of Contents](README.md)
