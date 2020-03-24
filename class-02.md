@@ -38,7 +38,17 @@ If HTML defines what the content of the page is and how it's structured, basical
 ## JS Book Ch. 4: "Decisions and Loops" **only up to the section on switch statements** (pp.145-162)
 
 ### Decisions
-There are often several places in a script where decisions are made that deterine which lines of code should be run next. 
+There are often several places in a script where decisions are made that determine which lines of code should be run next. **Flowcharts** can help you plan for these occasions.
+- In a **flowchart** a decision must be made and the code can take one of two different paths. Each path is made up of a different set of tasks, which means you have to write different code for each situation.
+- In order to determine what path to take, you set a **condition**. An example is checking to see if one value is equal, greater, or less than another. If the condition returns true, you take one path; if false, you take another.
+- **Comparison Operators** allow you to compare values and test whether a condition is met or not. There are two components to a decision:
+  1. An expression is evaluated, your code checks the current status of the script. This is commonly done by comparing two values using a comparison operator which returns a value of true or false (boolean). 
+  2. **Conditional statements** are based on a concept of if/then/else; if a condition is met, then your code executes one or more statements, else your code does something different (or just skips the step).
+- Reference pages 150-151 for comparison operators. (see image of table on desktop)
+- Reference pages 156-157 for **logical operators**. Logical operators allow you to compare the results of more than one comparison operator. 
+- The **IF** statement evaluates (or checks) a condition. If the condition evaluates true, any statement in the subsequent code block are executed. 
+- The **if, else** statement checks a condition, if it returns true the first code block is executed. If it returns false the second code block is run instead.
+
 
 
 [Table of Contents](README.md)
