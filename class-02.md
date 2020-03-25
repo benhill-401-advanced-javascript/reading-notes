@@ -43,7 +43,7 @@ If HTML defines what the content of the page is and how it's structured, basical
 
 ### Ch. 4: "Decisions and Loops" **only up to the section on switch statements** (pp.145-162)
 
-### Decisions
+#### Decisions
 There are often several places in a script where decisions are made that determine which lines of code should be run next. **Flowcharts** can help you plan for these occasions.
 - In a **flowchart** a decision must be made and the code can take one of two different paths. Each path is made up of a different set of tasks, which means you have to write different code for each situation.
 - In order to determine what path to take, you set a **condition**. An example is checking to see if one value is equal, greater, or less than another. If the condition returns true, you take one path; if false, you take another.
