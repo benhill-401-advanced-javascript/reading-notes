@@ -1,11 +1,15 @@
-# HTML Ch. 1: "Structure" (pp.12-39)
+# Reading Assignment 1
+
+## From Duckett HTML Book:
+
+### HTML Ch. 1: "Structure" (pp.12-39)
 To describe the structure of a web page, we use HTML elements.
     
 - Each **element** has an opening and closing tag with characters inside the left and right angled brackets which indicate the tags purpose.
 - **Attributes** provide additional information about the contents of an element. They appear on the **opening tag** of the element and are made upf of 2 parts: a name and a value, seperated by an = sign.
 - To learn HTML you need to know what tags are available for you to use, what they do, and where they go.
 
-## Ch. 8 "Extra Markup" (pp. 176-199)
+### Ch. 8 "Extra Markup" (pp. 176-199)
 - **DOCTYPE** is always the first element used when writing a new HTML document. The DOCTYPE tag is used to tell the browser which version of HTML is being used. It helps render a page correctly in your browser.  
 - **ID** and **Class** allow you to identify particular elements. The ID attribute is known as a **global element** because it can be used on any element. The ID tag is used to uniquely identify that element from other elements on the page. The Class element identifies several elements as being different from the other elements on the page. ID = One element, Class = More than one.
 - **div** elements allow you to group a set of elements together in on block-level box.
@@ -21,7 +25,7 @@ To describe the structure of a web page, we use HTML elements.
 - **meta** is an empty element that gives browsers data about the page. (see pp. 191-192)
 - See pages 193-194 for **escape characters**. Basically describes how to make a less-than symbol  appear on your web page use these in your editor - "&lt:" 
 
-## Ch. 17 "HTML5 Layout" (pp. 428-451)
+### Ch. 17 "HTML5 Layout" (pp. 428-451)
 
 - HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. 
 - Many of the ```<div>``` elements have been replaced. For example, the header sits inside a new ```<header>``` element. 
@@ -35,7 +39,9 @@ Navigation sits inside a ```<nav>``` element, and the articles are in the indivi
 - **Section** elements group related content together such as a few article elements with the same theme. If a page has a long article, section can be used to split it into seperate sections. 
 - **Heading Group** elements are used to group together a set of one or more h1 through h6 elements so they are treated as one single heading. ```<hgroup>```
 
-## JS Ch. 1 "The ABC of Programming" (pp.11-52)
+## From Duckett JS book:
+
+### Ch. 1 "The ABC of Programming" (pp.11-52)
 
 - The ```<script>``` tag uses Javascript inside an HTML document.
 - It is best to keep JS code in its own JS file in a sort of .js extension. Like an external style sheet in CSS, it is linked into the HTML document inside the ```<script>``` tag in the ```<head>```.
