@@ -7,10 +7,10 @@
 
 | Reading Notes |
 | --- |
-1. **[Reading Assignment 1](class-01.md)**
-2. **[Reading Assignment 2](class-02.md)**
-3. **[Reading Assignment 3](class-03.md)**
-4. 
+1. **[Read: 01](class-01.md)**
+2. **[Read: 02](class-02.md)**
+3. **[Read: 03](class-03.md)**
+4. **[Read: 04](class-04.md)** 
 5. 
 6. 
 7. 

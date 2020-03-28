@@ -3,11 +3,13 @@
 ## From Duckett HTML Book:
 
 ### Ch. 2: "Text" (pp. 40-61)
+
 HTML Elements are used to describe the structure of the page aka "markup" (aka tags). 
 - **Structural Markup** is the elements you can use to describe both headings and paragraphs. (pp. 43-49)
 - **Semantic Markup** provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on. (pp. 50-56)
 
 ### Ch. 10: "Introducing CSS" (pp.226-245)
+
 If HTML defines what the content of the page is and how it's structured, basically what the page "is," CSS (Cascading Style Sheets) is the language that tells that element how it should look.
 - CSS uses style rules to define how an element should look in two parts: a **selector** and a **declaration**. 
 - **Selectors** indicate which element the rule applies to. The same rule can apply to more than one element if you seperate the element names with commas.
@@ -21,6 +23,7 @@ If HTML defines what the content of the page is and how it's structured, basical
   ## From Duckett JS Book:
 
   ### Ch. 2: "Basic Javascript Instructions" (pp. 53-44)
+  
   - A **script** is a series of instrutions that a computer can follow one-by-one. Each indiviudal instruction or step is known as a **statement**. 
   - **Statements** end with a semicolon. 
   - A script will have to temporarily store the bits of information it needs to do its job. It can store tis data in **variables**. 

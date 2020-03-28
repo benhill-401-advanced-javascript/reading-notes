@@ -3,6 +3,7 @@
 ## From Duckett HTML Book:
 
 ### HTML Ch. 1: "Structure" (pp.12-39)
+
 To describe the structure of a web page, we use HTML elements.
     
 - Each **element** has an opening and closing tag with characters inside the left and right angled brackets which indicate the tags purpose.
@@ -10,6 +11,7 @@ To describe the structure of a web page, we use HTML elements.
 - To learn HTML you need to know what tags are available for you to use, what they do, and where they go.
 
 ### Ch. 8 "Extra Markup" (pp. 176-199)
+
 - **DOCTYPE** is always the first element used when writing a new HTML document. The DOCTYPE tag is used to tell the browser which version of HTML is being used. It helps render a page correctly in your browser.  
 - **ID** and **Class** allow you to identify particular elements. The ID attribute is known as a **global element** because it can be used on any element. The ID tag is used to uniquely identify that element from other elements on the page. The Class element identifies several elements as being different from the other elements on the page. ID = One element, Class = More than one.
 - **div** elements allow you to group a set of elements together in on block-level box.

@@ -54,6 +54,4 @@ for (var i = 0; i < 10; i++) {
   document.write(i);
 }
       
-
-
 [Table of Contents](README.md)
