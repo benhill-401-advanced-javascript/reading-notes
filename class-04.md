@@ -18,5 +18,70 @@ Links are the defining feature of the web because they allow you to move from on
 ```<h2 id="interlude">Interlude</a>```
 ```<h2 id="prologue">Prologue</a>```
 
+### Ch. 15: "Layout" (pp. 358-404)
+
+#### Key Concepts in Positioning Elements
+
+**Building Blocks**
+
+CSS treats each HTML element as if it is in its own box. This box will either be a **block-level** box or an **inline** box.
+- **Block level** boxes start on a new line and act as the main building blocks of any layout. Examples: ```<h1> <p> <ul> <li>``` 
+- **Inline** boxes flow between surrounding text. Examples: ```<img> <b> <i>```
+- You can control how much space each box takes up by setting the width of the boxes. To seperate boxes, you can use **borders, margins, padding, and background colors.**
+
+**Containing Elements**
+
+If one block-level element sits inside another block-level element then the outer box is known as the **containing or parent element.**
+- It is common to group a number of elements together inside a ```<div>``` element. For example, you might group together all of the elements that form the header of a site (logo and nav). The div element that contains this group of elements is known as the **containing** element. 
+- Good practice for semantic elements like ```<header> <main> <article> <aside> <section> <footer>``` would be to put a ```<div>``` containing element around boxes like header, main, and footer so it would be easier to style those elements inside those block-level elements. 
+
+#### Controlling the Position of Elements
+
+CSS has the following positioning schemes that allow you to control the layout of the page: **normal flow, relative positioning, and absolute positioning.**
+You specify the positioning scheme using the **position** property in CSS. You can also float elements using the float property. 
+
+- **Normal Flow** means every block-element appears on a new line. They will not appear next to each other. (Page 365)
+- **Relative Positioning** moves an element from the position it would be in normal flow, shifting it to the toop, right, bottom, or left of where it would have been placed. This doesn't affect the position of surrounding elements, they stay in the position from normal flow. (Page 366)
+- **Asolute Positioning** positions the element in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position of any surrounding elements as they ignore the space it would have taken up. Absolutely posistioned elements move as users scroll up and down the page. (Page 367)
+
+**Box Offset Properties**
+
+- **Fixed Positioning** is a form of absolute that positions the element in relation to the browser window, as opposed to the containing element. (Page 368)
+- **Floating Elements** allows you to take that element out of normal flow and position it to the far left or right of a containing box. It becomes a block-level element around which other content can flow. (Pages 370-376)
+- When you move any element out of normal flow, boxes can overlap. the z-index property allows you to control which box appears on top. 
+
+## From Duckett JS Book:
+
+### Ch. 3 (first part) "Functions, Methods, and Objects" (pp. 86-99)
+
+#### Functions
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function rather than repeating the same et of statements. The statements in a function are not always executed when a page loads, so functions also offer a way to store the steps needed to achieve a task.
+
+**Declaring a Function**
+
+To create a function, you give it a name and then write the statements nneeded to achieve its task inside the curly braces. This is known as a **function declaration**
+- Declare a function using the **function** keyword. 
+- Give the function a name or **identifier** followed by paranthesis (). 
+- **Statements** that perform the task sit in a code block (curly braces).
+function sayHello() {
+  document.write('Hello');
+}
+- Important to remember is that functions store the code required to perform a specific task, and that the script can ask the function to perform that task when needed. 
+**Calling a Function**
+Having declared the function, you can then execute all of the statements between its curly braces with just one line of code known as **calling the function**.
+- To run the code in the function, you use the function name followed by paranthesis(): sayHello()
+
+**Declaring Functions That Need Information**
+
+Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it **parameters**. Inside the function, the parameters act like variables. 
+- Information to work is indicated in paranthesis after the function name
+- Items that appear inside () are the parameters of the function which act like variable names. 
+- When calling a function that has parameters (variables named inside the function) you specify the values it should use in the () that follow its name. The values are called **arguments**, and they can be provided as values or as variables. 
+function getArea(width, height) {
+  return width * height;
+}
+- In the function above, if you call the argument as values using getArea(3, 5); the 3 will be width and the 5 will be height. This does the same thing 
+
 
 [Table of Contents](README.md)
