@@ -83,5 +83,33 @@ function getArea(width, height) {
 }
 - In the function above, if you call the argument as values using getArea(3, 5); the 3 will be width and the 5 will be height. This does the same thing 
 
+### Pair Programming (article)
+
+Pair programming is an essential tool as it utilizes four methods of learning a new language: **listening, speaking, reading, and writing**.
+Developers explain out loud what the code should do, listen to others guidance, read code that others have written, and write code themselves. Below are 6 reasons to engage in pair programming.
+
+**1. Greater Efficiency**
+
+When two or more people are working on the same project, less mistakes are made from the start as two sets of eyes are looking at the same thing. Although pair programming can take slightly longer, it is because higher quality code is being written that doesn't require as much troubleshooting later. When the pair is stuck both coders can research the problem and reach a solution faster. It enhances technical skills, team communication, and enjoyabiity in the workplace.
+
+**2. Engaged Collaboration**
+
+Both coders are more engaged in the project rather than doing the work on their own. It's harder to procrastinate when someone else is relying on you to help them. They also rely more on each other and don't need to ask for help as much.
+
+**3. Learning from fellow students**
+
+Working with someone else can develope a different approach to problem solving and techniques that working alone wouldn't produce. Two people can teach one other different ways to do things and compensate strengths in weak areas.
+
+**4. Social skills**
+
+Communication is key to producing quality work and expanding a persons team personal skills. Explaining in their own words how to do a thing is vital to understanding what it is that person is trying to learn themselves.
+
+**5. Job interview readiness**
+
+The social skills learned above make a person more ready to communicate with other people outside that pair like when interviewing for a a job.
+
+**6. Work environment readiness**
+
+Code fellows graduates who are already familiar with pair programming can hit te ground running at a new job and will not need to develop this as a skill as much as someone who graduate with a degree online.
 
 [Table of Contents](README.md)
