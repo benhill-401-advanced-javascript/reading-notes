@@ -37,4 +37,19 @@ Creating an image that is partialy transparent for the web involves selecting on
 - **Transparent GIF** - If the transparent part of the image has straight edges and is 100% transparent, you can save the image as a GIF.
 - **PNG** If the transparent part of the image has a diagonal 
 
+### Ch. 11: "Color" (pp. 246-263)
+
+Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want. you can use a color picker. 
+
+- VScode has a hexadiagram built in when using the color property where you can choose any color you like. 
+
+### Ch. 12: "Text" (pp. 264-299)
+
+- There are properties to control the choice of font, size, weight, style, and spacing. 
+- There is a limited choice of fonts that you can assume most people have installed.
+- If you want to use a wider range of typfaces there are several options. but you need to have the right license to use them. 
+- You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented. 
+- You can use pseudo-classes to change the style of an element when a user hovers over or clicks on tet, or when they have visited a link. 
+
+## 
 [Table of Contents](README.md)
