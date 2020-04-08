@@ -30,6 +30,15 @@ Objects group together a set of variables and functions to create a model of a s
 **Creating an Object**
 
 **Literal notations** are the easist and most popular way to create objects. 
+- The object is the curly braces and their contents. 
+- Seperate each key from its value using a colon.
+- Seperate each property and method with a comma (but not after the last value).
+
+### Ch. 5: "Document Object Model" (pp. 183-242)
+
+The document object model (DOM) specifies how browsers should create a model of an HTML page and how JS can access and update the contents of a web page while it is in the browser window. The DOM is neither part of HTML, nor part of JS; it is a seperate set of rules. It is implemented by all major browser makers, and covers two primary areas:
+- Making a Model of the HTML page
+- Accessing and changing the HTML page
 
 
 [Table of Contents](README.md)
