@@ -13,7 +13,7 @@
 4. **[Read: 04](class-04.md)** 
 5. **[Read: 05](class-05.md)**
 6. **[Read: 06](class-06.md)**
-7. 
+7. **[Read: 06](class-07.md)**
 8. 
 9. 
 10. 
