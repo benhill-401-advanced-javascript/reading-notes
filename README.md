@@ -15,10 +15,10 @@
 6. **[Read: 06](class-06.md)**
 7. **[Read: 07](class-07.md)**
 8. **[Read: 08](class-08.md)**
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15.
+9. **[Read: 09](class-09.md)**
+10. **[Read: 10](class-10.md)**
+11. **[Read: 11](class-11.md)**
+12. **[Read: 12](class-12.md)**
+13. **[Read: 13](class-13.md)**
+14. **[Read: 14](class-14.md)**
+15. **[Read: 15](class-15.md)**
