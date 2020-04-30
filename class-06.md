@@ -1,4 +1,4 @@
-# Reading Assignment 6
+# Read: 06 - JS Object Literals, The DOM
 
 ## Article: Understand the Problem Domain is the Hardest Part of Programming
 

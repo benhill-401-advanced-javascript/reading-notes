@@ -1,4 +1,4 @@
-# Reading Assignment 1
+# Read: 01 - Introductory HTML and JavaScript
 
 ## From Duckett HTML Book:
 

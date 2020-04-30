@@ -1,5 +1,5 @@
-# Reading Assignment 11
-
+# Read: 11 - Assorted Topics
+ 
 ## From Duckett HTML Book:
 
 ### Ch. 16: "Images" (pp.406-427)

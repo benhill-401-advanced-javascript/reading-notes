@@ -1,4 +1,4 @@
-# Reading Assingment 3
+# Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 
 ## From Duckett HTML Book:
 

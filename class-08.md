@@ -1,4 +1,4 @@
-# Reading Assignment 8
+# Read: 08 - More CSS Layout
 
 ## From Duckett HTML book: 
 

@@ -1,4 +1,4 @@
-# Reading Assignment 10
+# Read: 10 - JS Debugging
 
 ## From Duckett JS Book:
 

@@ -1,4 +1,4 @@
-# Reading Assignment 5
+# Read: 05 - HTML Images; CSS Color & Text
 
 ## From Duckett HTML Book:
 

@@ -1,4 +1,4 @@
-# Reading Assignment 4
+# Read: 04 - HTML Links, CSS Layouts, JS Functions
 
 ## From Duckett HTML Book:
 

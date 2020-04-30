@@ -1,8 +1,6 @@
-# Reading Assignment 12
+# Read: 12 - Docs for the HTML ```<canvas>``` Element & Chart.js
 
-## Docs for the HTML ```<canvas>``` Element & Chart.js
-
-### Charts
+## Charts
 
 Charts are far better for displaying data visually than tables. They're easier to look at and convey data quickly, but they're not always easy to create. 
 - A good way to get started with just is to use a JavaScript plugin, Chart.js. 

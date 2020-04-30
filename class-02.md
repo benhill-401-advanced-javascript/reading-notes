@@ -1,4 +1,4 @@
-# Reading Assignemnt 2
+# Read: 02 - HTML Text, CSS Intro, and Basic JavaScript Instructions
 
 ## From Duckett HTML Book:
 
