@@ -1,4 +1,4 @@
-# Read: 14b - What Google Learned About Teams
+# Read: 14a - What Google Learned About Teams
 
 ## Article from NY Times
 
