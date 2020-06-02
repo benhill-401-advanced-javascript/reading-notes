@@ -31,3 +31,4 @@
 | Reading Notes 301 |
 | --- |
 
+1. **[Read: 01](301-class-01.md)**
