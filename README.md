@@ -1,7 +1,7 @@
 # Code-201-Reading-Notes
 
 > The secret of getting ahead is getting started
-  **-Mark Twain**
+  **- Mark Twain**
 
 ## Table of Contents
 
