@@ -12,7 +12,7 @@
 - **[Read: 03](201-class-03.md)**
 - **[Read: 04](201-class-04.md)** 
 - **[Read: 05](201-class-05.md)**
--  **[Read: 06](201-class-06.md)**
+- **[Read: 06](201-class-06.md)**
 - **[Read: 07](201-class-07.md)**
 - **[Read: 08](201-class-08.md)**
 - **[Read: 09](201-class-09.md)**
@@ -34,3 +34,4 @@
 - **[Read: 01](301-class-01.md)**
 - **[Read: 02](301-class-02.md)**
 - **[Read: 03](301-class-03.md)**
+- **[Read: 04](301-class-04.md)**
