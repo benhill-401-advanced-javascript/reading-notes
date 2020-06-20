@@ -37,3 +37,4 @@
 - **[Read: 04](301-class-04.md)**
 - **[Read: 05](301-class-05.md)**
 - **[Read: 06](301-class-06.md)**
+- **[Read: 07](301-class-07.md)**
