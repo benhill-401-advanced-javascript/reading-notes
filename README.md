@@ -61,7 +61,7 @@
 - **[Data Modeling & NoSQL Databases](401-js/js-class-03.md)**
 - **[Advanced Mongo/Mongoose](401-js/js-class-04.md)**
 - **[Linked Lists](401-js/js-class-05.md)**
-- **[HTTP and REST](401/js-class-06.md)**
+- **[HTTP and REST](401-js/js-class-06.md)**
 - **[Express](401/js-class-07.md)**
 - **[Express Routing & Connected API](401/js-class-08.md)**
 - **[API Server](401/js-class-09.md)**
