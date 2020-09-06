@@ -62,8 +62,8 @@
 - **[Advanced Mongo/Mongoose](401-js/js-class-04.md)**
 - **[Linked Lists](401-js/js-class-05.md)**
 - **[HTTP and REST](401-js/js-class-06.md)**
-- **[Express](401/js-class-07.md)**
-- **[Express Routing & Connected API](401/js-class-08.md)**
+- **[Express](401-js/js-class-07.md)**
+- **[Express Routing & Connected API](401-js/class-08.md)**
 - **[API Server](401/js-class-09.md)**
 - **[Authentication](401/js-class-10.md)**
 - **[Stacks and Queues](401/js-class-11.md)**
