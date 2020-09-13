@@ -66,7 +66,7 @@
 - **[Express Routing & Connected API](401-js/class-08.md)**
 - **[API Server](401-js/class-09.md)**
 - **[Authentication](401-js/class-10.md)**
-- **[Stacks and Queues](401/js-class-11.md)**
+- **[Stacks and Queues](401-js/class-12.md)**
 - **[OAuth](401/js-class-12.md)**
 - **[Bearer Authorization](401/js-class-13.md)**
 - **[Access Control (ACL)](401/js-class-14.md)**
