@@ -68,23 +68,23 @@
 - **[Authentication](401-js/class-10.md)**
 - **[Stacks and Queues](401-js/class-12.md)**
 - **[OAuth](401-js/class-13.md)**
-- **[Bearer Authorization](401/js-class-13.md)**
-- **[Access Control (ACL)](401/js-class-14.md)**
-- **[Event Driven Applications](401/js-class-15.md)**
-- **[TCP Servers](401/js-class-16.md)**
-- **[Trees](401/js-class-17.md)**
-- **[Socket.io](401/js-class-19.md)**
-- **[Component Based UI](401/js-class-26.md)**
-- **[Props and State](401/js-class-27.md)**
-- **[Context API](401/js-class-28.md)**
-- **[Hash Tables](401/js-class-29.md)**
-- **[Hooks API](401/js-class-30.md)**
-- **[Custom Hooks](401/js-class-31.md)**
-- **[Context API](401/js-class-32.md)**
-- **[`<Login /> and <Auth />`](401/js-class-33.md)**
-- **[Graphs](401/js-class-34.md)**
-- **[Application State with Redux](401/js-class-35.md)**
-- **[Redux - Combined Reducers](401/js-class-36.md)**
-- **[Redux - Asynchronous Actions](401/js-class-37.md)**
-- **[React Native](401/js-class-38.md)**
-- **[Gatsby, next.js, and other JS Frameworks](401/js-class-39.md)**
+- **[Bearer Authorization](401-js/class-14.md)**
+- **[Access Control (ACL)](401-js/class-15.md)**
+- **[Event Driven Applications](401-js/class-16.md)**
+- **[TCP Servers](401-js/class-17.md)**
+- **[Trees](401-js/class-18.md)**
+- **[Socket.io](401-js/class-19.md)**
+- **[Component Based UI](401-js/class-26.md)**
+- **[Props and State](401-js/class-27.md)**
+- **[Context API](401-js/class-28.md)**
+- **[Hash Tables](401-js/class-29.md)**
+- **[Hooks API](401-js/class-30.md)**
+- **[Custom Hooks](401-js/class-31.md)**
+- **[Context API](401-js/class-32.md)**
+- **[`<Login /> and <Auth />`](401-js/class-33.md)**
+- **[Graphs](401-js/class-34.md)**
+- **[Application State with Redux](401-js/class-35.md)**
+- **[Redux - Combined Reducers](401-js/class-36.md)**
+- **[Redux - Asynchronous Actions](401-js/class-37.md)**
+- **[React Native](401-js/class-38.md)**
+- **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
