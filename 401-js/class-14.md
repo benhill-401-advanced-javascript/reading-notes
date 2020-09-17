@@ -10,15 +10,15 @@
 - Make a request to the access token endpoint
 - Redirect to a third party authentication endpoint
 
-1. What can you do with an authorization code?
+2. What can you do with an authorization code?
 
 - An authorization code gives you the ability to send back to the authorization server to give the client back an access token
 
-1. What can you do with an access token?
+3. What can you do with an access token?
 
 - An access token gives authorization to provide data it is requesting but is limited to getting only that data
 
-1. What’s a benefit of using OAuth instead of your own basic authentication?
+4. What’s a benefit of using OAuth instead of your own basic authentication?
 
 - Security. OAuth utilizes authorization and access tokens which has added layers of security. Also JWT verifies signature when the client is requesting data. Meaning the client can't change the access token.
 
