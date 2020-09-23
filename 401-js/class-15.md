@@ -1,0 +1,43 @@
+# Access Control (ACL)
+
+1. _When is Basic Authorization used vs. Bearer Authorization?_
+
+- They can both do the same thing but bearer should only be used over HTTPS
+
+2. _What does the JSON Web Token package do?_
+
+- Async
+  - If a callback is supplied, the callback is called with the **err** or the JWT
+- Synchronous
+  - Returns the JWT as a string
+
+3. _What considerations should we make when creating and storing a SECRET?_
+
+- Some considerations should be who we are allowing to have access to it but also having a public and private key stored in .env. This way it would be much more difficult to access that data
+
+## Vocab
+
+- _encryption:_
+  - The process of converting information or data into a code, especially to prevent unauthorized access.
+- _token:_
+  - A token is a piece of data that has no meaning or use on its own, but combined with the correct tokenization system, becomes a vital player in securing your application. Token based authentication works by ensuring that each request to a server is accompanied by a signed token which the server verifies for authenticity and only then responds to the request.
+- _bearer:_
+  - Bearer authentication (aka token authentication) is an HTTP authentication scheme that involves security tokens called **bearer tokens**. Could be understood as "give access to the bearer of this token."
+- _secret:_
+  - JWTs can be signed using a secret or a public/private key pair using RSA or ECDSA
+- _JSON Web Token:_
+  - JWT is an open standard(RFC 7519) that defines a compact and self-contained way for securely transmitting between parties as a JSON object. This data can be verified and trusted because it is digitally signed.
+- _RBAC:_
+
+  - Role-based Access Control
+    - is an approach to restricting system access to authorized users. Is used by the majority of enterprises with more than 500 employees.
+    - a policy-neutral access-control mechanism defined around roles and priveleges.
+
+- [RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
+
+### Material
+
+- [5 Steps to RBAC](https://www.csoonline.com/article/3060780/5-steps-to-simple-role-based-access-control.html)
+- [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)
+
+[Table of Contents](../README.md)
