@@ -34,6 +34,18 @@
     - a policy-neutral access-control mechanism defined around roles and priveleges.
 
 - [RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
+  - In enterprise setting, access may be based on job function or role of a user
+    - Payroll manager, project member
+    - Access rights are associated with roles
+  - Users authenticate themselves to the system
+  - Users then can activate one or more roles for themselves
+- **RBAC Benefits**
+  - Policy need not be updated when a certain person with a role leaves the organization
+  - New employee should be able to activate the desired role
+  - Revisiting least privelege
+    - User in one role has access to a subset of the files
+    - Switch roles to gain access to other resources
+  - SELinux supports RBAC
 
 ### Material
 
