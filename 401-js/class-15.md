@@ -52,4 +52,38 @@
 - [5 Steps to RBAC](https://www.csoonline.com/article/3060780/5-steps-to-simple-role-based-access-control.html)
 - [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)
 
+#### Lecture notes
+
+- Authentication
+  - /signup - create account
+  - /signin - authenticate (user/password) basic
+  - (oauth) - authenticate remotely
+- Authorization
+  - Some cons to using role based access control is it doesn't grow well
+- Code plan
+  - ACL {} could go in model
+  - Model - + role field
+  - ACL middleware - usermodel - is the user authorized to do a thing? if yes, next()
+  - add role to users schema (role: {type: String, })
+- need to tell each route what a user "can" do (router.get('/article', bearer, can('read')))
+
+#### FR Tab Times
+
+6:47 - Authorization
+6:49 - Blog stuff'n'stuff
+6:55 - Roles/Perms
+6:57 - RBAC stuff
+7:08 - Table example
+7:15 - Break
+7:27 - Coding plan
+7:35 - Currying (higher order function)
+7:43 - add a role to code
+7:49 - add ACL
+7:51 - router.get('/article' things..)
+7:53 - acl.js (where currying comes in)
+8:01 - Change tokenObject
+8:04 - OR! change acl.js (can method)
+8:09 - just kidding on read, update please
+8:22 - lab breakdown
+
 [Table of Contents](../README.md)
