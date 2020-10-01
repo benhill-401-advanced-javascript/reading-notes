@@ -9,6 +9,8 @@
 | ------------- |
 
 
+## Code 201: Beginner
+
 - **[Read: 01](201/201-class-01.md)**
 - **[Read: 02](201/201-class-02.md)**
 - **[Read: 03](201/201-class-03.md)**
@@ -25,7 +27,7 @@
 - **[Read: 14](201/201-class-14.md)**
 - **[Read: 15](201/201-class-15.md)**
 
-# Code 301
+## Code 301: Intermediate
 
 > If you're going through hell, keep going
 > **- Winston Churchill**
@@ -46,7 +48,7 @@
 - **[Read: 10](301/301-class-10.md)**
 - **[Read: 11](301/301-class-11.md)**
 
-# Code 401-JavaScript
+## Code 401: Advanced JavaScript
 
 > It's not a sprint, it's a marathon
 > **- Everyone**
