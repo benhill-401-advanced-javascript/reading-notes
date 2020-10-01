@@ -37,7 +37,7 @@
 - [_Call Stack_](https://www.vikingcodeschool.com/professional-development-with-javascript/the-call-stack-and-event-loop-in-node)
   - or "the stack", stores data about procedures that are currently running in a given program or a data structure that stores items.
 
-<!-- ### Lecture -->
+### Lecture
 
 #### Material
 
