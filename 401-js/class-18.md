@@ -26,9 +26,9 @@ _The algorithm for searching with a binary search tre is as follows:_
 - _Node_
   - A node is the individual item/data that makes up the data structure
 - _Left Child_
-  - The node that is positioned to the left of a root or node
+  - The node that is positioned to the left of a root or node (left = <)
 - _Right Child_
-  - The node that is positioned to the right of a root or node
+  - The node that is positioned to the right of a root or node (right = >)
 - _Edge_
   - The edge in a tree is the link between a parent and child node
 - _Leaf_
@@ -41,6 +41,26 @@ _The algorithm for searching with a binary search tre is as follows:_
 - [_Recursion_](https://en.wikipedia.org/wiki/Recursion)
   - occurs when a thing is defined in terms of itself or of its type.
     - _In computer science:_ A common method of simplification is to divide a problem into subproblems of the same type (divide and conquer). Recursion is exemplified when a function is defined in terms of simpler, often smaller versions of itself. The solution is then devised by combining the solutions obtained from the simpler versionf of the problem. One example application of recursion is in parsers.
+
+#### Lecture/Tab times
+
+9:26 - Trees?
+9:54 - stack-recursion.js
+10:06 - debugger for stack
+10:20 - queue whiteboard
+10:35 - Linked List
+10:41 - LL recursion
+10:55 - Tree .
+11:30 - Tree code
+12:00 - Questions
+
+**Tree methods**
+preOrder()
+
+- uses a helper function
+  - traversal let results = []/ const \_walk = (node) =>
+    inOrder()
+    postOrder()
 
 #### Resources
 
