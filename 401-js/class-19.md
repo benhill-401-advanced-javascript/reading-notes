@@ -1,22 +1,22 @@
 # [Socket.io](https://www.tutorialspoint.com/socket.io/)
 
-1. What is the benefit of transforming data into packets?
+_What is the benefit of transforming data into packets?_
 
 - Packets are intended to transfer data reliably and efficiently instead of transferring a large file as a single block of data, sending smaller _packets_ of data helps ensure each section is transmitted successfully.
 
-2. UDP is often referred to as a connectionless protocol. Why is this?
+_UDP is often referred to as a connectionless protocol. Why is this?_
 
 - UDP utilizes connectionless communication between programs in packets of data called datagrams.
 
-3. Can a socket server application have multiple socket connections?
+_Can a socket server application have multiple socket connections?_
 
 - On the server side, yes, there can be multiple connections as long as they are associated with different client-side IP/Port pairs.
 
-4. Can a socket connection application be connected to multiple socket servers?
+_Can a socket connection application be connected to multiple socket servers?_
 
 - No, all client side connections are associated with one single listening port.
 
-5. Can an application be both a socket server and a socket connection?
+_Can an application be both a socket server and a socket connection?_
 
 - Technically, yes, as far as I understand. But client side connections should only be listening on one port. So there's that
 
