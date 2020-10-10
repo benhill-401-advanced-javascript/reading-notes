@@ -76,6 +76,7 @@
 - **[TCP Servers](401-js/class-17.md)**
 - **[Trees](401-js/class-18.md)**
 - **[Socket.io](401-js/class-19.md)**
+- **[Message Queues](401-js/class-20.md)**
 - **[Component Based UI](401-js/class-26.md)**
 - **[Props and State](401-js/class-27.md)**
 - **[Context API](401-js/class-28.md)**

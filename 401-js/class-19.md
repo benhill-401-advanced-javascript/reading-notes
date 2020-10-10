@@ -54,4 +54,20 @@ _Can an application be both a socket server and a socket connection?_
 - [Socket.io Client API](https://socket.io/docs/client-api)
 - [Socket Testing Tool](https://amritb.github.io/socketio-client-tool/)
 
+#### Lecture
+
+- Tab times
+  6:42 - Brains, eyeballs, noses, arms
+  6:50 - Socket.io (drawing.. kinda)
+  7:02 - Rosie's a sad puppy
+  7:04 - Code demo start
+  7:11 - Q/A
+  7:25 - Add in Events
+  7:36 - John fires event
+  7:49 - Break
+  8:05 - Adding body parts
+  8:19 - Socket lobby (namespace)
+  8:33 - Health system (namespace sequel)
+  9:00 - NGROK
+
 [Table of Contents](../README.md)
