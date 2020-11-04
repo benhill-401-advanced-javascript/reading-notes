@@ -51,4 +51,39 @@
 - [Another React](https://reactcheatsheet.com/)
 - [Sass](https://devhints.io/sass)
 
+#### Lecture
+
+& = ties elements together in sass
+For every element in react, think of them as a lego piece
+Real state is like database in that it's persistent in the current
+React uses "binding" to connect data to the state of a page
+How does it do that?
+It maps everything in the DOM
+
+take input from a field, put it in a state
+
+today's goal is to scaffold
+
+9:20 - Real Sass
+9:30 - Sass questions
+9:35 - Code sandbox
+9:47 - Vanilla Events...
+9:55 - jQuery events!
+10:03 - review stuff that John didn't break
+10:09 - React way (old way)
+10:19 - Questions
+10:37 - React components&state
+10:45 - How?
+10:50 - Component Rendering
+10:57 - React download
+11:10 - Questions
+11:18 - SCSS (more sass)
+11:28 - (make it modular)
+11:38 - Questions (Dan Abramov worship)
+11:50 - Questions still happening
+11:52 - Put it in a <form>
+11:55 - Arrow function binding sorcery
+12:09 - Lab overview
+12:11 - John said to read the docs
+
 [Table of Contents](../README.md)

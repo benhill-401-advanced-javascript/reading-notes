@@ -77,6 +77,7 @@
 - **[Trees](401-js/class-18.md)**
 - **[Socket.io](401-js/class-19.md)**
 - **[Message Queues](401-js/class-20.md)**
+- **[React](401-js/react.md)**
 - **[Component Based UI](401-js/class-26.md)**
 - **[Props and State](401-js/class-27.md)**
 - **[Context API](401-js/class-28.md)**
@@ -91,3 +92,7 @@
 - **[Redux - Asynchronous Actions](401-js/class-37.md)**
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
+
+## Career
+
+- **[Winning the Interview](career/winning-interview.md)**
