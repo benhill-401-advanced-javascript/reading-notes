@@ -80,7 +80,7 @@
 - **[React](401-js/react.md)**
 - **[Component Based UI](401-js/class-26.md)**
 - **[Props and State](401-js/class-27.md)**
-- **[Context API](401-js/class-28.md)**
+- **[Component Composition](401-js/class-28.md)**
 - **[Hash Tables](401-js/class-29.md)**
 - **[Hooks API](401-js/class-30.md)**
 - **[Custom Hooks](401-js/class-31.md)**
