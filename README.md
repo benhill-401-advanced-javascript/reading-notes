@@ -93,6 +93,12 @@
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
 
+## Data Structures + Algorithms
+
+### Big O
+
+- **[What is good code?](career/winning-interview.md)**
+
 ## Career
 
 - **[Winning the Interview](career/winning-interview.md)**
