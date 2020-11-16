@@ -82,6 +82,7 @@
 - **[Props and State](401-js/class-27.md)**
 - **[Component Composition](401-js/class-28.md)**
 - **[Hash Tables](401-js/class-29.md)**
+- **[Routing](401-js/class-29-2.md)**
 - **[Hooks API](401-js/class-30.md)**
 - **[Custom Hooks](401-js/class-31.md)**
 - **[Context API](401-js/class-32.md)**
