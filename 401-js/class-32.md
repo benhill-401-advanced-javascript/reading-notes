@@ -13,18 +13,6 @@
 
    - You can use useEffect() with async/await workarounds to fetch API data. The following are three known ways to make an API call utilizing useEffect():
 
-     ```
-     (async () => {
-     await
-     axios.get('stuff');
-     })();
-     ```
-
-     ```
-     axios.get('stuff')
-     .then((data) => {console.log(response.data)})
-     ```
-
      **_Async method 1 is REACT recommended_**
 
      ```
@@ -45,6 +33,18 @@
      search();
      }
      }, [term]);
+     ```
+
+     ```
+     (async () => {
+     await
+     axios.get('stuff');
+     })();
+     ```
+
+     ```
+     axios.get('stuff')
+     .then((data) => {console.log(response.data)})
      ```
 
 ### Vocab
