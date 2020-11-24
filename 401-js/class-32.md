@@ -25,8 +25,9 @@
      .then((data) => {console.log(response.data)})
      ```
 
-     ```
      **_Async method 1 is REACT recommended_**
+
+     ```
      useEffect(() => {
      const search = async () => {
      const { data } = await axios.get('https://en.wikipedia.org/w/api.php', {
