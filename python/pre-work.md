@@ -84,10 +84,62 @@ Python uses boolean variables to evaluate conditions. True and False are returne
 
 There are two types of loops in Python, **for** and **while**.
 
-### The **for** loop
+### **for** loops
 For loops can iterate over a sequence of numbers using the **[range](https://www.w3schools.com/python/gloss_python_for_range.asp)** and **[Xrange](https://www.educative.io/edpresso/what-does-xrange-function-do-in-python)** functions. 
 - Range returns a new list with numbers of that specified range, whereas
 - Xrange returns an iterator, which is more efficient
+
+### **while** loops
+- repeat as long as a certain boolean condition is met.
+- **break** is used to exit a for loop or a while loop, whereas **continue** is used to skip the current block, and return to the for or while statement
+![break and continue](img/break_cont.png)
+- Python uses **else** clauses for loops. When the loop condition of **for** or **while** statement fails then code part in **else** is executed. 
+- If **break** statement is executed inside for loop then the **else** part is skipped. Note that **else** part is executed even if there is a **continue** statement
+
+## [Functions](https://www.learnpython.org/en/Functions)
+
+Functions are a convenient way to divide your code into useful blocks, allowing us to order our code, make it more readable,reuse it and save some time.
+- Functions are a key way to define interfaces so programmers can share their code
+- Functions in python are defined using the block keyword **def**, followed with the function's name as the block's name. 
+- Invoking a function: 
+![invoke function](img/invoke_function.png)
+
+## [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
+
+Objects are an encapsulation of variables and functions into a single entity. 
+- Objects get their variables and functions from classes. 
+- Classes are essentially a template to create your objects.
+
+## [Dictionaries](https://www.learnpython.org/en/Dictionaries)
+
+A dictionary is a data type similar to arrays, but works with keys and values instead of indexes. 
+- Each value stored in a dictionary can be accessed using a key, which is any type of object(string, num, list, etc) instead of using its index to address it. 
+![dictionary](img/dictionary.png)
+![dictionary alt](img/dictionary_2.png)
+- Dictionaries can be iterated over, just like a list. However, a dictionary doesn't keep the order of the values stored in it. 
+- To iterate over key value pairs, use this syntax:
+![iterate dictionary](img/dict_iterate.png)
+- To remove an index:
+![remove index from dictionary](img/dict_remove_idx.png)
+![remove index from dictionary](img/remove_index.png)
+
+## [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)
+
+A module is a piece of software that has specific functionality like building a ping pong game, one module would be responsible for the game logic, and another module would be responsible for drawing the game on the screen.
+- each module is a different file, which can be edited separately.
+- modules in python are files with a .py extension (module_name.py)
+- modules are imported using the **import** command
+- if a .pyc file exists, it gets loaded instead of the .py file
+- you can import specific functions from a file using the **from** command (**from** module_name **import** this_function)
+- the first time a module is loaded into a py script, it is initialized by executing the code in the module once
+- if another module in your code imports the same module again, it will not be loaded twice but once only so local variables inside the module act as a singleton
+- Check out [Python Standard Library](https://docs.python.org/3/library/) for a list of built in modules
+- 2 very important functions come in handy when exploring modules in Python: **dir** and **help** functions
+- **dir** looks for which functions are implemented in each module (import urllib >>> dir(urllib))
+- **help** is used after we've found a directory that we want to read (help(urllib.urlopen))
+- Packages are namespaces which contain multiple packages and modules themselves.
+- Each package in python is a directory which **must** a special file called **`__init__.py`**
+- the init file can also decide which modules the package exports as the API, while keeping other modules internal, by overriding the **`__all__`** variable
 
 
 [Table of Contents](../README.md)
