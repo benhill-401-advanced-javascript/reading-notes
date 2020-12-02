@@ -102,7 +102,8 @@
 | Reading Notes |
 | ------------- |
 
-- **[Pre Work](python/pre-work.md)**
+- **[Pre Work Basics](python/pre-work.md)**
+- **[Pre Work Data Science](python/data-science.md)**
 
 ## Data Structures + Algorithms
 
