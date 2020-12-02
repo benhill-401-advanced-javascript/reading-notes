@@ -48,7 +48,7 @@
 - **[Read: 10](301/301-class-10.md)**
 - **[Read: 11](301/301-class-11.md)**
 
-## Code 401: Advanced JavaScript
+## 401: Advanced JavaScript
 
 > It's not a sprint, it's a marathon
 > **- Everyone**
@@ -93,6 +93,16 @@
 - **[Redux - Asynchronous Actions](401-js/class-37.md)**
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
+
+## 401: Python
+
+> Who are you, so wise in the ways of science?
+> **- Sir Bedevere (Monty Python and the Holy Grail)**
+
+| Reading Notes |
+| ------------- |
+
+- **[Pre Work](python/pre-work.md)**
 
 ## Data Structures + Algorithms
 
