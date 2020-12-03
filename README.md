@@ -104,6 +104,7 @@
 
 - **[Pre Work Basics](python/pre-work.md)**
 - **[Pre Work Data Science](python/data-science.md)**
+- **[Pre Work Advanced](python/pre-work.md)**
 
 ## Data Structures + Algorithms
 
