@@ -110,6 +110,7 @@
 
 ### Big O
 
+- **[Beginner's guide to Big O](python/beginner-big-O.md)**
 - **[What is good code?](career/winning-interview.md)**
 
 ## Career
