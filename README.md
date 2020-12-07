@@ -1,15 +1,14 @@
 # Table of Contents
 
+- To view deployed github pages version of this repo, click [here](https://benhill-401-advanced-javascript.github.io/reading-notes/)
+
 # Code Fellows Reading Notes
+
+## Code 201: Beginner
 
 > The secret of getting ahead is getting started
 > **- Mark Twain**
 
-| Reading Notes |
-| ------------- |
-
-
-## Code 201: Beginner
 
 - **[Read: 01](201/201-class-01.md)**
 - **[Read: 02](201/201-class-02.md)**
@@ -32,9 +31,6 @@
 > If you're going through hell, keep going
 > **- Winston Churchill**
 
-| Reading Notes |
-| ------------- |
-
 
 - **[Read: 01](301/301-class-01.md)**
 - **[Read: 02](301/301-class-02.md)**
@@ -52,9 +48,6 @@
 
 > It's not a sprint, it's a marathon
 > **- Everyone**
-
-| Reading Notes |
-| ------------- |
 
 
 - **[Node Ecosystem, TDD, CI/CD](401-js/401-js-class-01.md)**
@@ -99,12 +92,12 @@
 > Who are you, so wise in the ways of science?
 > **- Sir Bedevere (Monty Python and the Holy Grail)**
 
-| Reading Notes |
-| ------------- |
 
 - **[Pre Work Basics](python/pre-work.md)**
 - **[Pre Work Data Science](python/data-science.md)**
 - **[Pre Work Advanced](python/pre-work.md)**
+- **[TDD with Python](python/python-tdd.md)**
+- **[Dictionaries](python/dict.md)**
 
 ## Data Structures + Algorithms
 
