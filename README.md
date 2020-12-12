@@ -1,10 +1,10 @@
 # Table of Contents
 
-- To view deployed github pages version of this repo, click [here](https://benhill-401-advanced-javascript.github.io/reading-notes/)
+**To view deployed github pages version of this repo, click [here](https://benhill-401-advanced-javascript.github.io/reading-notes/)**
 
-# Code Fellows Reading Notes
+## Code Fellows Reading Notes
 
-## Code 201: Beginner
+### Code 201: Beginner
 
 > The secret of getting ahead is getting started
 > **- Mark Twain**
@@ -26,7 +26,7 @@
 - **[Read: 14](201/201-class-14.md)**
 - **[Read: 15](201/201-class-15.md)**
 
-## Code 301: Intermediate
+### Code 301: Intermediate
 
 > If you're going through hell, keep going
 > **- Winston Churchill**
@@ -44,7 +44,7 @@
 - **[Read: 10](301/301-class-10.md)**
 - **[Read: 11](301/301-class-11.md)**
 
-## 401: Advanced JavaScript
+### 401: Advanced JavaScript
 
 > It's not a sprint, it's a marathon
 > **- Everyone**
@@ -87,25 +87,25 @@
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
 
-## 401: Python
+### 401: Python
 
 > Who are you, so wise in the ways of science?
 > **- Sir Bedevere (Monty Python and the Holy Grail)**
-
 
 - **[Pre Work Basics](python/pre-work.md)**
 - **[Pre Work Data Science](python/data-science.md)**
 - **[Pre Work Advanced](python/pre-work.md)**
 - **[TDD with Python](python/python-tdd.md)**
 - **[Dictionaries](python/dict.md)**
+- **[File IO & Exceptions](python/file-and-exceptions.md)**
 
-## Data Structures + Algorithms
+### Data Structures + Algorithms
 
 ### Big O
 
 - **[Beginner's guide to Big O](python/beginner-big-O.md)**
 - **[What is good code?](career/winning-interview.md)**
 
-## Career
+### Career
 
 - **[Winning the Interview](career/winning-interview.md)**
