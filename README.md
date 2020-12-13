@@ -78,9 +78,9 @@
 - **[Context API](401-js/class-32.md)**
 - **[`<Login /> and <Auth />`](401-js/class-33.md)**
 - **[Graphs](401-js/class-34.md)**
-- **[Application State with Redux](401-js/class-35.md)**
-- **[Redux - Combined Reducers](401-js/class-36.md)**
+- **[Redux - Combined Reducers](401-js/class-35.md)**
 - **[Redux - Asynchronous Actions](401-js/class-37.md)**
+- **[Redux - Additional Topics](401-js/redux-additional.md)**
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
 
