@@ -96,6 +96,9 @@
 - **[Dictionaries](python/dict.md)**
 - **[File IO & Exceptions](python/file-and-exceptions.md)**
 - **[Classes, Objects, and thinking Recursively](python/classes-objects.md)**
+- **[Testing with Pytest Part One](python/pytest.md)**
+- **[Testing with Pytest Part Two](python/pytest-two.md)**
+- **[Pytest: Fixtures and Coverage](python/pytest-fix-cov.md)**
 
 ### Data Structures + Algorithms
 
