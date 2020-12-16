@@ -95,6 +95,7 @@
 - **[TDD with Python](python/python-tdd.md)**
 - **[Dictionaries](python/dict.md)**
 - **[File IO & Exceptions](python/file-and-exceptions.md)**
+- **[Classes, Objects, and thinking Recursively](python/classes-objects.md)**
 
 ### Data Structures + Algorithms
 
