@@ -30,4 +30,37 @@ When dealing with recursive functions, keep in mind that each recursive call has
 
 A list is an example of a recursive data structure.
 
+### Lecture
+When using classes, you need a way to normalize data that you pass through it. Python uses dunder init to do that. It refers to the instance of that class using the keyword **self** 
+
+class JediMaster():
+  def __init__(self, name):
+    self.name = name
+
+You can use a "super" class that you can use to extend into other classes
+
+class ForceUser:
+  def thing
+
+class JediMaster(ForceUser):
+  def __init__(self, name):
+    self.name = name
+
+When defining a @classmethod, pass in "cls" rather than "self"
+
+A script is meant to be something that runs alone
+
+a module is going to need 
+if __name__ == '__main__':
+  newJedi = JediMaster('Yoda')
+  print(newJedi)
+
+a dunder str and a dunder repr
+dunder str is a plain text user facing description of what your object is
+just like dunder init, dunder __str__ 
+
+for stretch goals you'd just be changing the .skip
+
+LOOK UP MRO 
+
 [Table of Contents](../README.md)

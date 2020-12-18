@@ -52,32 +52,27 @@
 - **[Classes, Inheritance, Functional Programming](401-js/401-js-class-02.md)**
 - **[Data Modeling & NoSQL Databases](401-js/js-class-03.md)**
 - **[Advanced Mongo/Mongoose](401-js/js-class-04.md)**
-- **[Linked Lists](401-js/js-class-05.md)**
 - **[HTTP and REST](401-js/js-class-06.md)**
 - **[Express](401-js/js-class-07.md)**
 - **[Express Routing & Connected API](401-js/class-08.md)**
 - **[API Server](401-js/class-09.md)**
 - **[Authentication](401-js/class-10.md)**
-- **[Stacks and Queues](401-js/class-12.md)**
 - **[OAuth](401-js/class-13.md)**
 - **[Bearer Authorization](401-js/class-14.md)**
 - **[Access Control (ACL)](401-js/class-15.md)**
 - **[Event Driven Applications](401-js/class-16.md)**
 - **[TCP Servers](401-js/class-17.md)**
-- **[Trees](401-js/class-18.md)**
 - **[Socket.io](401-js/class-19.md)**
 - **[Message Queues](401-js/class-20.md)**
 - **[React](401-js/react.md)**
 - **[Component Based UI](401-js/class-26.md)**
 - **[Props and State](401-js/class-27.md)**
 - **[Component Composition](401-js/class-28.md)**
-- **[Hash Tables](401-js/class-29.md)**
 - **[Routing](401-js/class-29-2.md)**
 - **[Hooks API](401-js/class-30.md)**
 - **[Custom Hooks](401-js/class-31.md)**
 - **[Context API](401-js/class-32.md)**
 - **[`<Login /> and <Auth />`](401-js/class-33.md)**
-- **[Graphs](401-js/class-34.md)**
 - **[Redux - Combined Reducers](401-js/class-35.md)**
 - **[Redux - Asynchronous Actions](401-js/class-37.md)**
 - **[Redux - Additional Topics](401-js/redux-additional.md)**
@@ -102,10 +97,18 @@
 
 ### Data Structures + Algorithms
 
-### Big O
-
+#### Big O
 - **[Beginner's guide to Big O](python/beginner-big-O.md)**
 - **[What is good code?](career/winning-interview.md)**
+
+#### Data Structures
+- **[Linked Lists](ds&a/link-list.md.md)**
+- **[Stacks and Queues](ds&a/stack-que.md)**
+- **[Trees](ds&a/trees.md)**
+- **[Hash Tables](ds&a/hash-tables.md)**
+- **[Graphs](ds&a/graphs.md)**
+
+
 
 ### Career
 
