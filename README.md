@@ -101,7 +101,7 @@
 - **[What is good code?](career/winning-interview.md)**
 
 #### Data Structures
-- **[Linked Lists](ds&a/link-list.md.md)**
+- **[Linked Lists](ds&a/link-list.md)**
 - **[Stacks and Queues](ds&a/stack-que.md)**
 - **[Trees](ds&a/trees.md)**
 - **[Hash Tables](ds&a/hash-tables.md)**
