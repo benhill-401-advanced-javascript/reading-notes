@@ -9,38 +9,37 @@
 > The secret of getting ahead is getting started
 > **- Mark Twain**
 
-- **[Read: 01](201/201-class-01.md)**
-- **[Read: 02](201/201-class-02.md)**
-- **[Read: 03](201/201-class-03.md)**
-- **[Read: 04](201/201-class-04.md)**
-- **[Read: 05](201/201-class-05.md)**
-- **[Read: 06](201/201-class-06.md)**
-- **[Read: 07](201/201-class-07.md)**
-- **[Read: 08](201/201-class-08.md)**
-- **[Read: 09](201/201-class-09.md)**
-- **[Read: 10](201/201-class-10.md)**
-- **[Read: 11](201/201-class-11.md)**
-- **[Read: 12](201/201-class-12.md)**
-- **[Read: 13](201/201-class-13.md)**
-- **[Read: 14](201/201-class-14.md)**
-- **[Read: 15](201/201-class-15.md)**
+- **[Introductory HTML and JavaScript](201/201-class-01.md)**
+- **[HTML Text, CSS Intro, and Basic JavaScript Instructions](201/201-class-02.md)**
+- **[HTML Lists, CSS Boxes, JS Control Flow](201/201-class-03.md)**
+- **[HTML Links, CSS Layouts, JS Functions](201/201-class-04.md)**
+- **[HTML Images; CSS Color & Text](201/201-class-05.md)**
+- **[JS Object Literals, The DOM](201/201-class-06.md)**
+- **[HTML Tables, JS Constructor Functions](201/201-class-07.md)**
+- **[More CSS Layout](201/201-class-08.md)**
+- **[Forms and Events](201/201-class-09.md)**
+- **[JS Debugging](201/201-class-10.md)**
+- **[Assorted Topics](201/201-class-11.md)**
+- **[Docs for the HTML ```<canvas>``` Element & Chart.js](201/201-class-12.md)**
+- **[Local Storage](201/201-class-13.md)**
+- **[CSS Transforms, Transitions, and Animations](201/201-class-15.md)**
 
 ### [Code 301: Intermediate](https://www.codefellows.org/courses/code-301/intermediate-software-development/)
 
 > If you're going through hell, keep going
 > **- Winston Churchill**
 
-- **[Read: 01](301/301-class-01.md)**
-- **[Read: 02](301/301-class-02.md)**
-- **[Read: 03](301/301-class-03.md)**
-- **[Read: 04](301/301-class-04.md)**
-- **[Read: 05](301/301-class-05.md)**
-- **[Read: 06](301/301-class-06.md)**
-- **[Read: 07](301/301-class-07.md)**
-- **[Read: 08](301/301-class-08.md)**
-- **[Read: 09](301/301-class-09.md)**
-- **[Read: 10](301/301-class-10.md)**
-- **[Read: 11](301/301-class-11.md)**
+- **[SMACSS and Responsive Web Design](301/301-class-01.md)**
+- **[jQuery, Events, and The DOM](301/301-class-02.md)**
+- **[Flexbox and Templating](301/301-class-03.md)**
+- **[CSS Grid](301/301-class-04.md)**
+- **[Getting Started on Heroku with Node.js](301/301-class-05.md)**
+- **[Node, Express, and APIs](301/301-class-06.md)**
+- **[APIs continued](301/301-class-07.md)**
+- **[SQL](301/301-class-08.md)**
+- **[Refactoring](301/301-class-09.md)**
+- **[The Call Stack and Debugging](301/301-class-10.md)**
+- **[EJS](301/301-class-11.md)**
 
 ### [401: Advanced JavaScript](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/)
 
@@ -108,8 +107,8 @@
 - **[Hash Tables](ds&a/hash-tables.md)**
 - **[Graphs](ds&a/graphs.md)**
 
-
-
-### Career
+### Tech Today
 
 - **[Winning the Interview](career/winning-interview.md)**
+- **[What Google Learned About Teams](201/201-class-14a.md)**
+
