@@ -18,7 +18,9 @@ x = [[i] for i in range(10)]
 shuffle(x)`
 - **randrange** - Generate a randomly selected element from range(start, stop, step)
 
-- More on [random](https://docs.python.org/3/library/random.html)
+- More on [random, python docs](https://docs.python.org/3/library/random.html)
+- [Generating Random Data in Python](https://realpython.com/python-random/)
+
 
 ## [What is Risk Analysis in Software Testing and how to perform it?](https://www.edureka.co/blog/risk-analysis-in-software-testing/)
 The probably of any unwanted incident is defined as Risk. In software testing, risk analysis is the process of identifying the risks in applications or software that you built and prioritizing them to test. 
@@ -46,7 +48,20 @@ In such cases, use:
   - Medium: Tolerable but not desirable. Limited risk
   - Low: Tolerable. Little or no external exposure or no financial loss
 
+## Lecture notes
 
+Welcome to Game of Greed
+(y)es to play or (n)o to decline
+> y
+Starting round one
+Rolling 6 dice...
+*** 1 1 3 3 6 6 ***
+Enter dice to keep, or (q)uit:
+> 113366
+YOu have 1500 unbanked points and 0 dice remaining
+(r)oll again, (b)ank your points or (q)uit:
+*** random output of numbers as above ***
 
+[counter method](https://pymotw.com/3/collections/counter.html)
 
 [Table of Contents](../README.md)

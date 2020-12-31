@@ -100,6 +100,8 @@
 #### Big O
 - **[Beginner's guide to Big O](python/beginner-big-O.md)**
 - **[What is good code?](career/winning-interview.md)**
+- **[Timing Our Code](ds&a/timing-code.md)**
+- **[Spacing Complexity](ds&a/spacing.md)**
 
 #### Data Structures
 - **[Linked Lists](ds&a/link-list.md)**
