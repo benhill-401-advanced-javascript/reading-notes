@@ -94,6 +94,7 @@
 - **[Testing with Pytest Part Two](python/pytest-two.md)**
 - **[Pytest: Fixtures and Coverage](python/pytest-fix-cov.md)**
 - **[Game of Greed](python/game-of-greed.md)**
+- **[Python Scope](python/game-of-greed-2.md)**
 
 ### Data Structures + Algorithms
 
