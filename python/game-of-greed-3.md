@@ -15,7 +15,6 @@ is equivalent to:
         expression
 ```
 
-
 ### Additional resources
 
 [Primer on Decorators](https://realpython.com/primer-on-python-decorators/)
