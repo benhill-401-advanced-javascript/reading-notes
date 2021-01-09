@@ -96,6 +96,8 @@
 - **[Game of Greed](python/game-of-greed.md)**
 - **[Python Scope](python/game-of-greed-2.md)**
 - **[List Comprehensions](python/game-of-greed-3.md)**
+- **[Dunder Methods](python/dunder-methods.md)**
+- **[Statistics and Probability](python/statistics-probability.md)**
 
 ### Data Structures + Algorithms
 
