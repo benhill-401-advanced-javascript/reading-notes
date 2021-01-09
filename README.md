@@ -116,4 +116,4 @@
 - **[Winning the Interview](career/winning-interview.md)**
 - **[What Google Learned About Teams](201/201-class-14a.md)**
 - **[Performance Part One](career/performance.md)**
-
+- **[Critical Render Path](career/critical-render.md)**

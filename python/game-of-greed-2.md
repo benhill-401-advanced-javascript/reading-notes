@@ -46,5 +46,18 @@ Similarly to global names, nonlocal names can be accessed from inner functions, 
   - you can modify using nonlocal in a nested function that's still within the local scope if the first function. 
     - in the nested function, you use the **nonlocal** keyword and can modify the variable there, then call the first function it's nested in 
 
+### Lecture
+Automated user acceptance tests are going to be primary goal for this lab
+
+Tests will be written using flo.py - what is that?
+
+Testing of game logic will be simulated from the users point of view. 
+- With user acceptance testing, we have to modify the way we think about the test
+- how do we test 
+- make sure you're importing "quitter.sim.path"
+
+Tab times 
+- 8:41: start
+- 
 
 [Table of Contents](../README.md)
