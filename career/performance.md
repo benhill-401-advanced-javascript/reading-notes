@@ -27,7 +27,18 @@ You want to pick the right types of images (jpg, png, gif, svg) and compress the
 - Use CDNs like [imgix](https://www.imgix.com/?utm_term=imgix&utm_campaign=adwords-branded&utm_source=adwords&utm_medium=ppc&hsa_tgt=kwd-347244981599&hsa_grp=98890898611&hsa_src=g&hsa_net=adwords&hsa_mt=p&hsa_ver=3&hsa_ad=456649958299&hsa_acc=8534109361&hsa_kw=imgix&hsa_cam=9210499657&gclid=Cj0KCQiA0MD_BRCTARIsADXoopbaiwxfrkrZx62gTorkL9bRTwyBzhM8GmSj43MR-8P0QpWrNtiBiB8aAlP3EALw_wcB)
 - Remove image metadata
 
+### [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+Update to HTTP that updates network latency
 
+### Resources
+- [Performance analysis in a table](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#activities)
+- [Analyze frames per second (FPS)](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#fps)
+- [Monitor: CPU usage, JS heap size, DOM nodes (event listeners, documents, frames per page), layouts and style recalculations per second](https://developers.google.com/web/updates/2017/11/devtools-release-notes#perf-monitor)
+- [View Interactions](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#interactions)
+- [Find scroll performance issues in realtime](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#scrolling-performance-issues)
+- [View painting events in real time](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#paint-flashing)
+
+For additional resources see Ch. 53 in course content
 
 
 
