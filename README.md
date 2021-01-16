@@ -101,6 +101,7 @@
 - **[List Comprehensions](python/game-of-greed-3.md)**
 - **[Dunder Methods](python/dunder-methods.md)**
 - **[Statistics and Probability](python/statistics-probability.md)**
+- **[Data Analysis](python/data-analysis.md)**
 
 
 ### Data Structures + Algorithms
