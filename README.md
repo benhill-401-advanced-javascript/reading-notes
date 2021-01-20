@@ -102,6 +102,7 @@
 - **[Dunder Methods](python/dunder-methods.md)**
 - **[Statistics and Probability](python/statistics-probability.md)**
 - **[Data Analysis](python/data-analysis.md)**
+- **[Pandas](python/pandas.md)**
 
 
 ### Data Structures + Algorithms
