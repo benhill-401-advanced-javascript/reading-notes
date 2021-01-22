@@ -78,8 +78,9 @@
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
 
-## Microservices with Node JS and React
+## JavaScript.. Continued
 - **[Data in Microservices](career/microservices/data-in-micro.md)**
+- **[TypeScript](javascript/typescript.md)**
 
 ### [401: Python](https://www.codefellows.org/courses/code-401/advanced-software-development-in-python/)
 
@@ -103,6 +104,7 @@
 - **[Statistics and Probability](python/statistics-probability.md)**
 - **[Data Analysis](python/data-analysis.md)**
 - **[Pandas](python/pandas.md)**
+- **[Linear Regressions](python/linear-regressions.md)**
 
 
 ### Data Structures + Algorithms
