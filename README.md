@@ -104,7 +104,9 @@
 - **[Statistics and Probability](python/statistics-probability.md)**
 - **[Data Analysis](python/data-analysis.md)**
 - **[Pandas](python/pandas.md)**
-- **[Linear Regressions](python/linear-regressions.md)**
+- **[Linear Regression](python/linear-regressions.md)**
+- **[Web Scraping](python/webscrape.md)**
+- **[Data Visualization](python/data-vis.md)**
 
 
 ### Data Structures + Algorithms

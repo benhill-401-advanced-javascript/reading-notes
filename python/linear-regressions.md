@@ -1,4 +1,4 @@
-# [Linear Regressions](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
+# [Linear Regression](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
 
 [What is Linear Regression?](https://www.statisticssolutions.com/what-is-linear-regression/)
 - Linear regression is a basic and commonly used type of predictive analysis.
