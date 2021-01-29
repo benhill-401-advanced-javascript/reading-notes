@@ -42,25 +42,6 @@ _The algorithm for searching with a binary search tre is as follows:_
   - occurs when a thing is defined in terms of itself or of its type.
     - _In computer science:_ A common method of simplification is to divide a problem into subproblems of the same type (divide and conquer). Recursion is exemplified when a function is defined in terms of simpler, often smaller versions of itself. The solution is then devised by combining the solutions obtained from the simpler versionf of the problem. One example application of recursion is in parsers.
 
-#### Lecture/Tab times
-
-9:26 - Trees?
-9:54 - stack-recursion.js
-10:06 - debugger for stack
-10:20 - queue whiteboard
-10:35 - Linked List
-10:41 - LL recursion
-10:55 - Tree .
-11:30 - Tree code
-12:00 - Questions
-
-**Tree methods**
-preOrder()
-
-- uses a helper function
-  - traversal let results = []/ const \_walk = (node) =>
-    inOrder()
-    postOrder()
 
 #### Resources
 
