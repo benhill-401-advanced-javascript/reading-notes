@@ -79,7 +79,6 @@
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
 
 ## JavaScript.. Continued
-- **[Data in Microservices](career/microservices/data-in-micro.md)**
 - **[TypeScript](javascript/typescript.md)**
 
 ### [401: Python](https://www.codefellows.org/courses/code-401/advanced-software-development-in-python/)
@@ -108,6 +107,14 @@
 - **[Web Scraping](python/webscrape.md)**
 - **[Data Visualization](python/data-vis.md)**
 
+### Tech Today
+
+- **[Winning the Interview](career/winning-interview.md)**
+- **[What Google Learned About Teams](201/201-class-14a.md)**
+- **[Performance Part One](career/performance.md)**
+- **[Critical Render Path](career/critical-render.md)**
+- **[Data in Microservices](career/microservices/data-in-micro.md)**
+- **[Kubernetes](career/microservices/kubernetes.md)**
 
 ### Data Structures + Algorithms
 
@@ -123,10 +130,3 @@
 - **[Trees](ds&a/trees.md)**
 - **[Hash Tables](ds&a/hash-tables.md)**
 - **[Graphs](ds&a/graphs.md)**
-
-### Tech Today
-
-- **[Winning the Interview](career/winning-interview.md)**
-- **[What Google Learned About Teams](201/201-class-14a.md)**
-- **[Performance Part One](career/performance.md)**
-- **[Critical Render Path](career/critical-render.md)**
