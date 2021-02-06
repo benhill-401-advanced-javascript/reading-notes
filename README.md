@@ -106,6 +106,7 @@
 - **[Linear Regression](python/linear-regressions.md)**
 - **[Web Scraping](python/webscrape.md)**
 - **[Data Visualization](python/data-vis.md)**
+- **[Cryptography](python/cryptography.md)**
 
 ### Tech Today
 
