@@ -107,6 +107,7 @@
 - **[Web Scraping](python/webscrape.md)**
 - **[Data Visualization](python/data-vis.md)**
 - **[Cryptography](python/cryptography.md)**
+- **[Automation](python/automation.md)**
 
 ### Tech Today
 
