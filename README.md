@@ -78,8 +78,13 @@
 - **[React Native](401-js/class-38.md)**
 - **[Gatsby, next.js, and other JS Frameworks](401-js/class-39.md)**
 
-## JavaScript.. Continued
+### JavaScript.. Continued
 - **[TypeScript](javascript/typescript.md)**
+- **[Redux](javascript/redux.md)**
+
+### PHP
+- [Intro](php/intro.md)
+- [Variables](php/variables.md)
 
 ### [401: Python](https://www.codefellows.org/courses/code-401/advanced-software-development-in-python/)
 
