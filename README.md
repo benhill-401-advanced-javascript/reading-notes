@@ -113,6 +113,7 @@
 - **[Data Visualization](python/data-vis.md)**
 - **[Cryptography](python/cryptography.md)**
 - **[Automation](python/automation.md)**
+- **[Django Intro](python/django.md)**
 
 ### Tech Today
 
