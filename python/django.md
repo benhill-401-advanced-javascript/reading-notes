@@ -141,4 +141,4 @@ Inside the html markup, the logic contained in `{% %}` is the template syntax
 - [First Django App Part one](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
   - [Part Two](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
 
-[Table of Contents]()
+[Table of Contents](../README.md)
