@@ -1,5 +1,46 @@
 # Intro to Django
 
+## Usage notes
+Django says the difference according to Django is an "app" is a web application that does something. 
+
+A "project" is a collection of configuration and apps for a particular website. A project can contain multiple apps. An app can be in multiple projects
+
+The `include()` function allows referencing other URLconfs
+- Whenever Django encounters `include()`, it chops off whatever part of the URL matched up to that point and sends the remaining string to the included URLconf for further processing
+- The idea behind `include()` is to make it easy to plug-and-play URLs.
+- You should always use `include()` when you include other URL patterns. `admin.site.urls` is the only exception to this.
+
+The `path()` function is passed four arguments, two required, **route** and **view**, and two optional: **kwargs**, and **name**. 
+- `path(route)` is a string that contains a URL pattern.
+  - When processing a request, Django starts at the first pattern in `urlpatterns` and makes its way down the list, comparing the requested URL against each pattern until it fines one that matches.
+  - Patterns don't search GET and POST parameters, or the domain name.
+- `path(view)` is when Django finds a matching pattern, it calls the specified view function with an `HttpRequest` object as the first argument and any "captured" values from the route as keyword args
+
+## Database setup
+By default, the configuration uses SQLite which is included in Python. When starting your first project you may want to use a more scalable db like PostgreSQL.
+
+If you want to install a different db than SQLite, install the appropriate database bindings and change the following keys in the DATABASES 'default' item to match your database connection settings:
+- ENGINE – Either 'django.db.backends.sqlite3', 'django.db.backends.postgresql', 'django.db.backends.mysql', or 'django.db.backends.oracle'. Other backends are also available.
+- NAME – The name of your database. If you’re using SQLite, the database will be a file on your computer; in that case, NAME should be the full absolute path, including filename, of that file. The default value, os.path.join(BASE_DIR, 'db.sqlite3'), will store the file in your project directory.
+- For db's other than SQLite
+  - make sure you've created a database by this point. Do that with "CREATE DATABASE database_name;" within your db's interactive prompt
+
+To migrate to SQL db you need to:
+- Change your models in models.py
+- Run `python manage.py makemigrations` to create migrations for those changes
+  - To check if it's creating the write tables, run `python manage.py sqlmigrate polls 0001`
+- Run `python manage.py migrate` to apply those changes to the database
+
+## Start development server
+The Django admin site is activated by default. To start the development server run:
+```
+python manage.py createsuperuser
+```
+You'll be prompted to enter a username and password, then run:
+```
+python manage.py runserver
+```
+
 ## What is it?
 Django is a Python based web framework that enables rapid development of secure and maintainable websites. 
 - It's "complete" in that it comes with built in tools that is as comphrehensive as possible
