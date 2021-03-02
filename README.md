@@ -114,6 +114,7 @@
 - **[Cryptography](python/cryptography.md)**
 - **[Automation](python/automation.md)**
 - **[Django Intro](python/django.md)**
+- **[Django Models](python/django-models.md)**
 
 ### Tech Today
 
