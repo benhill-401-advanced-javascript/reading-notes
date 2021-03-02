@@ -172,7 +172,7 @@ A text file defining the structure or layout of a file, with placeholders used t
 </body>
 </html>
 ```
-Inside the html markup, the logic contained in `{% %}` is the template syntax
+
 
 
 ### Resources
