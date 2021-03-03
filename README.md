@@ -82,9 +82,6 @@
 - **[TypeScript](javascript/typescript.md)**
 - **[Redux](javascript/redux.md)**
 
-### PHP
-- [Intro](php/intro.md)
-- [Variables](php/variables.md)
 
 ### [401: Python](https://www.codefellows.org/courses/code-401/advanced-software-development-in-python/)
 
@@ -116,7 +113,8 @@
 - **[Django Intro](python/django.md)**
 - **[Django Models](python/django-models.md)**
 
-### Tech Today
+
+### Career stuffs
 
 - **[Winning the Interview](career/winning-interview.md)**
 - **[What Google Learned About Teams](201/201-class-14a.md)**
@@ -124,6 +122,7 @@
 - **[Critical Render Path](career/critical-render.md)**
 - **[Data in Microservices](career/microservices/data-in-micro.md)**
 - **[Kubernetes](career/microservices/kubernetes.md)**
+- **[Using SSH keys](career/intro-to-ssh.md)**
 
 ### Data Structures + Algorithms
 
@@ -139,3 +138,10 @@
 - **[Trees](ds&a/trees.md)**
 - **[Hash Tables](ds&a/hash-tables.md)**
 - **[Graphs](ds&a/graphs.md)**
+
+### PHP
+- [Intro](php/intro.md)
+- [Variables](php/variables.md)
+
+### Wordpress
+- **[Intro to WP plugins](php/wordpress-classes/intro-wp-plugins.md)**
