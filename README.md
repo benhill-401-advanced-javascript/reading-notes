@@ -81,6 +81,7 @@
 ### JavaScript.. Continued
 - **[TypeScript](javascript/typescript.md)**
 - **[Redux](javascript/redux.md)**
+- **[React Native](javascript/react-native.md)**
 
 
 ### [401: Python](https://www.codefellows.org/courses/code-401/advanced-software-development-in-python/)
@@ -112,6 +113,7 @@
 - **[Automation](python/automation.md)**
 - **[Django Intro](python/django.md)**
 - **[Django Models](python/django-models.md)**
+- **[Django CRUD and Forms](python/django-crud-forms.md)**
 
 
 ### Career stuffs
