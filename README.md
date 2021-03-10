@@ -114,6 +114,7 @@
 - **[Django Intro](python/django.md)**
 - **[Django Models](python/django-models.md)**
 - **[Django CRUD and Forms](python/django-crud-forms.md)**
+- **[Django Custom User](python/django-custom-user.md)**
 
 
 ### Career stuffs
@@ -125,6 +126,7 @@
 - **[Data in Microservices](career/microservices/data-in-micro.md)**
 - **[Kubernetes](career/microservices/kubernetes.md)**
 - **[Using SSH keys](career/intro-to-ssh.md)**
+- **[History and Story of Data](career/data-story.md)**
 
 ### Data Structures + Algorithms
 
