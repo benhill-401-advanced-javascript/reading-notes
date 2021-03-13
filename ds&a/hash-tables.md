@@ -6,7 +6,7 @@
 
 - _Hash:_ A hash is the result of some algorithm taking an incoming string and converting it into a value that could be used for either security or some other purpose. A hashtable is used to determine the index of the array.
 - _Buckets:_ are what is contained in each index of the array of the hastable. Each index is a bucket. An index could potentially contain multiple key/value pairs if a collision occurs.
-- _Collisions:_ A collision is what happens when more than one key gets hashed to the same location of the hastable. [_Check out the wiki collision resolution!_](https://en.wikipedia.org/wiki/Hash_table#Collision_resolution)
+- _Collisions:_ A collision is what happens when more than one key gets hashed to the same location of the hastable. [Check out the wiki collision resolution](https://en.wikipedia.org/wiki/Hash_table#Collision_resolution)
 
 ## Why do we use them?
 
