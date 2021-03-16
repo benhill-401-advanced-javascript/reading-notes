@@ -115,6 +115,7 @@
 - **[Django Models](python/django-models.md)**
 - **[Django CRUD and Forms](python/django-crud-forms.md)**
 - **[Django Custom User](python/django-custom-user.md)**
+- **[Django REST Framework & Docker](python/dj-rest-docker.md)**
 
 
 ### Career stuffs
