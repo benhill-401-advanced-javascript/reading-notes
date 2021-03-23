@@ -117,6 +117,7 @@
 - **[Django Custom User](python/django-custom-user.md)**
 - **[Django REST Framework & Docker](python/dj-rest-docker.md)**
 - **[Django Permissions & Postgresql](python/permissions-psql.md)**
+- **[Authentication & Production Server (Django)](python/auth-production-server.md)**
 
 
 ### Career stuffs
