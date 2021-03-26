@@ -118,6 +118,7 @@
 - **[Django REST Framework & Docker](python/dj-rest-docker.md)**
 - **[Django Permissions & Postgresql](python/permissions-psql.md)**
 - **[Authentication & Production Server (Django)](python/auth-production-server.md)**
+- **[Deploying a Django project](python/api-deploy.md)**
 
 
 ### Career stuffs
