@@ -132,6 +132,7 @@
 - **[Kubernetes](career/microservices/kubernetes.md)**
 - **[Using SSH keys](career/intro-to-ssh.md)**
 - **[History and Story of Data](career/data-story.md)**
+- **[Whiteboard advice](ds&a/white-advice.md)**
 
 ### Data Structures + Algorithms
 
