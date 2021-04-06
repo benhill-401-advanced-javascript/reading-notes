@@ -25,6 +25,12 @@ _The algorithm for searching with a binary search tre is as follows:_
   - The root is the first/top Node in the tree
 - _Node_
   - A node is the individual item/data that makes up the data structure
+- Parent 
+  - A node connected to another node when moving towards the root
+- Descendant 
+  - a node reachable by repeated processing from parent to child
+- Ancestor 
+  - a node reachable by repeated processing from child to parent
 - _Left Child_
   - The node that is positioned to the left of a root or node (left = <)
 - _Right Child_
@@ -35,6 +41,43 @@ _The algorithm for searching with a binary search tre is as follows:_
   - A leaf is a node that does not contain any children
 - _Height_
   - The height of a tree is determined by the number of edges from the root to the bottommost node
+- _Depth_
+  - the depth of a node is the number of edges from the node to the tree’s root node
+- Degree 
+  - the number of sub trees of a node
+- Subtree 
+  - of a tree T is a tree consisting of a node in T and all of it’s descendants in T
+
+## Tree types
+### Binary Tree
+Is a tree data structure in which each node has at most two children
+- Full Binary tree: every node in the tree has 0 or 2 children
+- Perfect binary tree: all interior nodes have two children and all leaves have the same depth or level
+- Complete binary tree: every level except possibly the last is completely filled, and all nodes in the last level are as far left as possible
+
+Depth-first search
+In a depth-first search, the search is deepened as much as possible on each child before going to the next sibling
+
+Pre-Order
+Display data of root
+Traverse left subtree calling preorder function
+Traverse right subtree calling preorder function
+In-Order
+Traverse left subtree calling preorder function
+Display data of root
+Traverse right subtree calling preorder function
+An In-Order search will return the sorted contents of a BST (Binary Search Tree)
+
+Post-Order
+Traverse left subtree calling preorder function
+Traverse right subtree calling preorder function
+Display data of root
+A stack can be used to perform a depth-first search
+
+#### Pointer-based
+Store references to the parent and chilren
+### Binary Search Tree
+Or BST, is a data structure that keeps its keys in sorted order, so that operations can take advantage of the binary search principle (logarithmic search that )
 
 #### Vocab
 
