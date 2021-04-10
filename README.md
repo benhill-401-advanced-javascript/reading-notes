@@ -120,6 +120,7 @@
 - **[Authentication & Production Server (Django)](python/auth-production-server.md)**
 - **[Deploying a Django project](python/api-deploy.md)**
 - **[React 1](python/py-react.md)**
+- **[React 2](python/py-react-2.md)**
 
 
 ### Career stuffs
@@ -149,6 +150,8 @@
 - **[Trees](ds&a/trees.md)**
 - **[Hash Tables](ds&a/hash-tables.md)**
 - **[Graphs](ds&a/graphs.md)**
+#### Algorithms
+- **[Breadth First Search](ds&a/breadth-first.md)**
 
 ### PHP
 - [Intro](php/intro.md)
