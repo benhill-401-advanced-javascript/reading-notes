@@ -123,6 +123,7 @@
 - **[React 2](python/py-react-2.md)**
 - **[React 3](python/py-react-3.md)**
 - **[React 4](python/py-react-4.md)**
+- **[Pythonisms](python/pythonisms.md)**
 
 
 ### Career stuffs
