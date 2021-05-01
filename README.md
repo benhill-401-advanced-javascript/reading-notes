@@ -125,6 +125,7 @@
 - **[React 4](python/py-react-4.md)**
 - **[Pythonisms](python/pythonisms.md)**
 - **[Ethics](python/ethics.md)**
+- **[Open Source Contributions](python/open-source.md)**
 
 
 ### Career stuffs
